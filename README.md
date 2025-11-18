@@ -43,7 +43,7 @@ Overall, my research aims to provide data-driven, model-supported, and polic
 - Yang J. et al. (2024). *Cross-provincial inpatient mobility patterns and their determinants in China.* BMC Health Services Research.  
 - Yang J. et al. (2022). *Modeling the spatial relationship between rice cadmium and soil properties at a regional scale considering confounding effects and spatial heterogeneity.* Chemosphere.  
 
-A more complete list is available on my [Google Scholar profile](_link_).
+A more complete list is available on my [Google Scholar Profile](https://scholar.google.com/citations?user=O6IYuLgAAAAJ&hl=en ).
 
 ---
 
