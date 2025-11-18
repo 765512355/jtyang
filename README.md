@@ -40,9 +40,37 @@ Overall, my research aims to provide data-driven, model-supported, and polic
 
 ## Selected Publications
 
-- Yang J. et al. (2025). *Internalizing the external costs to achieve environmental and economic goals: A case study of rice production in China.* Food Policy.  
-- Yang J. et al. (2024). *Cross-provincial inpatient mobility patterns and their determinants in China.* BMC Health Services Research.  
-- Yang J. et al. (2022). *Modeling the spatial relationship between rice cadmium and soil properties at a regional scale considering confounding effects and spatial heterogeneity.* Chemosphere.  
+## 📚 Selected Publications
+
+1. **Yang J.** et al. (2025). *Internalizing the external costs to achieve environmental and economic goals: A case study of rice production in China.*  
+   Food Policy, 132: 102857.
+
+2. **Yang J.** et al. (2022). *Chain modeling for the biogeochemical nexus of cadmium in the soil–rice–human health system.*  
+   Environment International, 167: 107424.
+
+3. **Yang J.** et al. (2021). *Rice supply flows and their determinants in China.*  
+   Resources, Conservation & Recycling, 174: 105812.
+
+4. **Yang J.** et al. (2023). *Joint effects and spatiotemporal characteristics of the driving factors of landslides in earthquake areas.*  
+   Journal of Earth Science, 34: 330–338.
+
+5. **Yang J.** et al. (2018). *New method for landslide susceptibility mapping using spatial logistic regression and GeoDetector: A case study of the Duwen Highway Basin, Sichuan, China.*  
+   Geomorphology, 324. *(ESI Highly Cited Paper)*
+
+6. **Yang J.** et al. (2022). *Modeling the spatial relationship between rice cadmium and soil properties at a regional scale considering confounding effects and spatial heterogeneity.*  
+   Chemosphere, 287(4): 132402.
+
+7. **Yang J.** et al. (2024). *Cross-provincial inpatient mobility patterns and their determinants in China.*  
+   BMC Health Services Research, 24: 1004.
+
+8. **Li L**, ……, **Yang J.#** (Corresponding). (2024). *Enhancing landslide susceptibility mapping by integrating neighboring information in slope units.*  
+   Remote Sensing, 16(23): 4475.
+
+9. **Yang Y**, **Yang J.*** (Co-first authors). (2019). *Local-scale landslide susceptibility mapping using the B-GeoSVC model.*  
+   Landslides, 16: 1301–1312.
+
+10. Long W., **Yang J.#** (Corresponding), Tian X., Fan S. (2025). *Foundations, bottlenecks, and innovative pathways for benefit compensation in China’s main grain-producing areas.*  
+    Journal of South China Agricultural University (Social Science Edition), 24(3): 17–33. 
 
 A more complete list is available on my [Google Scholar Profile](https://scholar.google.com/citations?user=O6IYuLgAAAAJ&hl=en ).
 
