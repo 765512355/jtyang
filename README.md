@@ -5,7 +5,7 @@
 **China Agricultural University**
 
 📧 Email: yangjt@lreis.ac.cn  
-📖 Google Scholar Profile](https://scholar.google.com/citations?user=O6IYuLgAAAAJ&hl=en ).
+📖 [Google Scholar Profile](https://scholar.google.com/citations?user=O6IYuLgAAAAJ&hl=en )
 
 ---
 
