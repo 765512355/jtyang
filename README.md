@@ -1,50 +1,31 @@
----
-title: "Jintao Yang | China Agricultural University"
----
 
 # Jintao Yang (杨锦涛)
 
 **Associate Professor, College of Economics & Management**  
 **China Agricultural University**
 
-📧 Email: _your_email@cau.edu.cn_  
-📖 Google Scholar: _[link]_ · 📊 ResearchGate: _[link]_ · 🆔 ORCID: _[link]_  
+📧 Email: yangjt@lreis.ac.cn  
+📖 Google Scholar: _[[link](https://scholar.google.com/citations?user=O6IYuLgAAAAJ&hl=en )]_
 
 ---
 
 ## About Me
-
-I am an associate professor at China Agricultural University.  
-My research focuses on the **sustainable transformation of agri-food systems**, with a particular emphasis on:
-
-- Low-carbon rice production and distribution  
-- Full-chain governance of cadmium pollution from soil to rice to human health  
-- Biodiversity and ecosystem services in agricultural landscapes  
-
-I work at the intersection of **GIS, environmental science, and agricultural economics**, aiming to bridge scientific understanding and policy practice.
+  
+I am an Associate Professor at China Agricultural University, working at the intersection of GIS, environmental science, agricultural economics, and sustainability analytics.
 
 ---
 
-## Research Areas
+## My research centers on two major directions:
 
-### 1. Low-carbon agri-food systems
+### 1. Spatiotemporal process modeling of agricultural–environmental systems
 
-- Quantifying carbon, water, and land footprints embedded in interprovincial rice flows  
-- Optimizing rice circulation networks via linear and multi-objective programming  
-- Providing policy-relevant scenarios for achieving China’s “dual-carbon” goals  
+I develop spatially explicit models to understand how agricultural production, pollutant migration, ecological processes, and human behaviors evolve across space and time. I integrate GIS, remote sensing, spatial statistics, and system simulation to uncover heterogeneity, dynamics, and feedbacks within coupled human–environment systems. 
 
-### 2. Cadmium pollution along the soil–rice–human chain
+### 2. Optimization and governance of sustainable agri-food systems
 
-- Spatial modeling of cadmium in rice and soils at regional and watershed scales  
-- Probabilistic exposure assessment across demographic and income groups  
-- Designing differentiated, place-based governance strategies  
+I design optimization and policy frameworks to achieve low-carbon development, heavy-metal pollution governance, and biodiversity protection. My work quantifies environmental footprints embedded in interprovincial food circulation and proposes implementable solutions that support China’s dual-carbon goals, food safety strategies, and ecological compensation mechanisms.
 
-### 3. Biodiversity & ecosystem services in agricultural landscapes
-
-- Evaluating habitat quality and biodiversity impacts of agricultural policies  
-- Case studies on rice–fish systems, wetland–paddy mosaics, and ecological restoration  
-- Exploring synergies between food production, climate mitigation, and biodiversity conservation  
-
+Overall, my research aims to provide data-driven, model-supported, and polic
 ---
 
 ## Methods & Tools
