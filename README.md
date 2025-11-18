@@ -12,6 +12,7 @@
 ## About Me
   
 I am an Associate Professor at China Agricultural University, working at the intersection of GIS, environmental science, agricultural economics, and sustainability analytics.
+I have served as the **Principal Investigator** for multiple competitive research fundings, including a **National Natural Science Foundation of China (NSFC) Young Scientist Project**, the **Ministry of Education Humanities and Social Sciences Fund**, the **China Postdoctoral Science Foundation**, the **National Program for Postdoctoral Innovative Talents**, and several **National Key Laboratory Open Funds** and **university-level interdisciplinary grants**. These fundings collectively support my long-term research agenda on **spatiotemporal process modeling** and the **sustainable transformation of agri-food systems**.
 
 ---
 
