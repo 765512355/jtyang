@@ -1,5 +1,5 @@
 
-# Jintao Yang (杨锦涛)
+# Jintao Yang (杨锦涛1)
 
 **Associate Professor, College of Economics & Management**  
 **China Agricultural University**
